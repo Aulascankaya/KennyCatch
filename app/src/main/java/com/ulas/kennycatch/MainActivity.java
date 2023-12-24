@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                  AlertDialog.Builder alert = new AlertDialog.Builder(MainActivity.this);
 
                  alert.setTitle("Restart");
-                 alert.setMessage("Are you ready?");
+                 alert.setMessage("Are you readyyyy?");
                  alert.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                      @Override
                      public void onClick(DialogInterface dialogInterface, int i) {
